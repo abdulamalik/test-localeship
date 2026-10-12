@@ -1,5 +1,6 @@
 {
   "greeting": "Hello everyone, this is a test!",
   "welcome": "Welcome back, {name}!",
-  "items": "{count, plural, one {# item} other {# items}}"
+  "items": "{count, plural, one {# item} other {# items}}",
+  "bye": "Goodbye!"
 }

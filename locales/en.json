@@ -2,5 +2,6 @@
   "greeting": "Hello everyone, this is a test!",
   "welcome": "Welcome back, {name}!",
   "items": "{count, plural, one {# item} other {# items}}",
-  "bye": "Goodbye!"
+  "bye": "Goodbye!",
+  "thanks": "Thank you, {name}, for your order!"
 }

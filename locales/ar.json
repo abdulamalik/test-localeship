@@ -4,5 +4,6 @@
   "items": "{count, plural, zero {لا توجد عناصر} one {عنصر واحد} two {عنصران} few {# عناصر} many {# عنصرًا} other {# عنصر}}",
   "bye": "مع السلامة!",
   "thanks": "شكرًا لك يا {name} على طلبك!",
-  "production_ready": "أصبح LocaleShip متاحًا الآن في بيئة الإنتاج."
+  "production_ready": "أصبح LocaleShip متاحًا الآن في بيئة الإنتاج.",
+  "key_rotated": "تم تدوير مفتاح الإنتاج بنجاح."
 }

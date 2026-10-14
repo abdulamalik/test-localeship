@@ -4,5 +4,6 @@
   "items": "{count, plural, one {# item} other {# items}}",
   "bye": "Goodbye!",
   "thanks": "Thank you, {name}, for your order!",
-  "production_ready": "LocaleShip is now live in production."
+  "production_ready": "LocaleShip is now live in production.",
+  "key_rotated": "The production key has been rotated successfully."
 }

@@ -3,5 +3,6 @@
   "welcome": "Welcome back, {name}!",
   "items": "{count, plural, one {# item} other {# items}}",
   "bye": "Goodbye!",
-  "thanks": "Thank you, {name}, for your order!"
+  "thanks": "Thank you, {name}, for your order!",
+  "production_ready": "LocaleShip is now live in production."
 }

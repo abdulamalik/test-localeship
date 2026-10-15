@@ -6,5 +6,6 @@
   "thanks": "Thank you, {name}, for your order!",
   "production_ready": "LocaleShip is now live in production.",
   "key_rotated": "The production key has been rotated successfully.",
-  "glossary_check": "Go to checkout with LocaleShip"
+  "glossary_check": "Go to checkout with LocaleShip",
+  "dashboard": "Open the dashboard"
 }

@@ -7,5 +7,6 @@
   "production_ready": "LocaleShip is now live in production.",
   "key_rotated": "The production key has been rotated successfully.",
   "glossary_check": "Go to checkout with LocaleShip",
-  "dashboard": "Open the dashboard"
+  "dashboard": "Open the dashboard",
+  "webhook_restored": "Webhooks are working again"
 }

@@ -10,5 +10,6 @@
   "dashboard": "Open the dashboard",
   "webhook_restored": "Webhooks are working again",
   "foundations": "Foundations are in place",
-  "rolling_one": "One translation PR for every push"
+  "rolling_one": "One translation PR for every push",
+  "rolling_two": "The same pull request is updated"
 }

@@ -9,5 +9,6 @@
   "glossary_check": "Go to checkout with LocaleShip",
   "dashboard": "Open the dashboard",
   "webhook_restored": "Webhooks are working again",
-  "foundations": "Foundations are in place"
+  "foundations": "Foundations are in place",
+  "bot_filter": "LocaleShip ignores its own commits"
 }

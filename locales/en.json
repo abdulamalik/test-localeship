@@ -12,5 +12,6 @@
   "foundations": "Foundations are in place",
   "rolling_one": "One translation PR for every push",
   "rolling_two": "The same pull request is updated",
-  "rolling_three": "A fresh pull request after the merge"
+  "rolling_three": "A fresh pull request after the merge",
+  "rolling_four": "Updated before being merged"
 }

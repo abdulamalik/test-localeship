@@ -5,5 +5,10 @@
   "bye": "مع السلامة!",
   "thanks": "شكرًا لك يا {name} على طلبك!",
   "production_ready": "أصبح LocaleShip متاحًا الآن في بيئة الإنتاج.",
-  "key_rotated": "تم تدوير مفتاح الإنتاج بنجاح."
+  "key_rotated": "تم تدوير مفتاح الإنتاج بنجاح.",
+  "glossary_check": "انتقل إلى الدفع باستخدام LocaleShip",
+  "dashboard": "افتح لوحة التحكم",
+  "webhook_restored": "عادت خطافات الويب إلى العمل",
+  "foundations": "الأسس جاهزة",
+  "bot_filter": "يتجاهل LocaleShip الإيداعات الخاصة به"
 }

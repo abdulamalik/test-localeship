@@ -15,5 +15,6 @@
   "rolling_three": "A fresh pull request after the merge",
   "rolling_four": "Updated before being merged",
   "rolling_five": "Clean start after a merge commit",
-  "cost_guard": "Translation costs are now kept under control"
+  "cost_guard": "Translation costs are now kept under control",
+  "durable_webhooks": "Webhooks are queued durably".
 }
